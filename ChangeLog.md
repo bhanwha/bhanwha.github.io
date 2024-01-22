@@ -7,4 +7,7 @@
 - [x] search-console
 
 ### 0.3.0
-- [ ] NAVER searchadvisor
+- [x] NAVER searchadvisor add file
+
+### 0.4.0
+- [ ] [SEO NAVER](https://github.com/bhanwha/bhanwha.github.io/issues/6)
