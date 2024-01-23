@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "bhanwha-dev",
+    "public": "/",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

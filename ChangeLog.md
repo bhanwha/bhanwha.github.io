@@ -7,4 +7,7 @@
 - [x] search-console
 
 ### 0.3.0
-- [ ] NAVER searchadvisor
+- [x] NAVER searchadvisor
+
+### 0.5.0
+- [ ] firebase & deploy dev STG
